@@ -1,0 +1,17 @@
+{
+  "taskpoint": [
+    {
+      "descricao": "Maria3",
+      "id": "iODezvKoa58"
+    },
+    {
+      "descricao": "Eduardo",
+      "id": "vtAmjMoAXss"
+    },
+    {
+      "descricao": "Lima",
+      "id": "652zBkHnu1c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
